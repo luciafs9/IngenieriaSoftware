@@ -1,6 +1,4 @@
 #include <iostream>
-#include <unordered_map>
-#include <functional>
 #include <windows.h>
 
 #pragma comment(lib,"user32")
